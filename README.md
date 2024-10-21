@@ -1,4 +1,5 @@
-# ev
+# Scraper for EV models from thedriven.io
+Scraped data available at [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1shehMHQu-jvjW-8KD3k2teCWZOwzxObhtOQSGDsxgeg/edit?usp=sharing)
 
 To install dependencies:
 
